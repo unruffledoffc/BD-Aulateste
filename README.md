@@ -1,2 +1,2 @@
 # BD-Aulateste
-qwerty
+Criacao de repositorio teste em aula
